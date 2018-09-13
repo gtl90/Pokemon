@@ -1,3 +1,6 @@
+# ProgNet workshop - https://mavnn.gitlab.io/elmish-tutorial/
+
+
 # Fulma minimal template
 
 This template setup a minimal application using [Fable](http://fable.io/), [Elmish](https://fable-elmish.github.io/) and [Fulma](https://mangelmaxime.github.io/Fulma/).
